@@ -1,5 +1,7 @@
 
 This repository contains code for my solution prototype built as part of Microsoft's Cybersecurity Engage program 2022.
+
+
 I have used fernet cryptography which is an authenticated cryptography which doesn't allow to read and modify file without having key.
 # TO ENCRYPT A FILE
 We initialise a fernet object and pass our key to it and store it as a local variable and we read our original data
