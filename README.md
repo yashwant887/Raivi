@@ -8,5 +8,7 @@ We initialise a fernet object and pass our key to it and store it as a local var
 and then we encrypt the data using out fernet key and it encrypts the file
 # TO DECRYPT A FILE
  To Decrypt the file the process is reverse of encryption, We create a fernet object and pass our encryptd key to it,
- and we decrypt the data using the ferent object 
+ and we decrypt the data using the ferent object.
+ 
+ 
  This prototype implements an element of cryptography in the communication between the PNC and field devices 
